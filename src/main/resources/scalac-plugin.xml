@@ -1,0 +1,4 @@
+<plugin>
+  <name>fast-map</name>
+  <classname>net.virtualvoid.scala.FastMapPlugin</classname>
+</plugin>
